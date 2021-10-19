@@ -18,10 +18,6 @@ Open to business contacts and new acquaintances :)
 
 ### Let's talk more:
 
-<a href="https://www.youtube.com/watch?v=7YvAYIJSSZY" target="_blank">
-    <img src="https://github.com/sv-hmelevsky/svhmelevsky/raw/main/dance.gif" align="right" width="120" title="Don't open! ;)" />
-</a>
-
 - [LinkedIn](https://linkedin.com/in/sv-hmelevsky)
 - [Telegram](https://t.me/sv_hmelevsky)
 - [StackOverflow](https://ru.stackoverflow.com/users/240651/stanislav-hmelevsky)
