@@ -18,6 +18,10 @@ Open to business contacts and new acquaintances :)
 
 ### Let's talk more:
 
+<a href="https://www.youtube.com/watch?v=SwYN7mTi6HM" target="_blank">
+    <img src="https://github.com/sv-hmelevsky/sv-hmelevsky/raw/main/octocat.gif" align="right" width="120" title="Jump! ;)" />
+</a>
+
 - [LinkedIn](https://linkedin.com/in/sv-hmelevsky)
 - [Telegram](https://t.me/sv_hmelevsky)
 - [StackOverflow](https://ru.stackoverflow.com/users/240651/stanislav-hmelevsky)
