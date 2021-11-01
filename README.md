@@ -14,7 +14,7 @@ Open to business contacts and new acquaintances :)
 :man_technologist: &nbsp; I’m currently working on inner web services for big Food distributor<br>
 :muscle: &nbsp; I'm learning Algorithms, Clean Architecture & DDD principles<br>
 :handshake: &nbsp; I'm looking to collaborate on Open Source projects<br>
-:zap: &nbsp; Fun fact: Love play a guitar 🎸
+:zap: &nbsp; Hobby: Learning to play 🎸
 
 ### Let's talk more:
 
